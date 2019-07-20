@@ -12,3 +12,7 @@ function Attention() {
 		}
 	};
 }
+
+function CoolStuff() {
+	console.log('we in dis yo');
+}
